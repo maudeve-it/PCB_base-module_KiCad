@@ -10,7 +10,7 @@ I included also library for shematics and footprints for two new-designed items:
 <br>
 
 
-# PCB Modulo Base (kiCad)
+# PCB Modulo Base (KiCad)
 
 Qui trovi tutti i file che occorrono alla apertura/editazione dello schema Kicad e del progetto della PCB con KiCad.
 
