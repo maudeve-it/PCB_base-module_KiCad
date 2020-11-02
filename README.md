@@ -1,6 +1,6 @@
 # Base Module PCB (KiCad)
 
-Here are all the file (I hope) you need to open/edit the KiCad shematic design and the PCB design sheets.
+Here are all the file you need to open/edit the KiCad shematic design and the PCB design sheets.
 
 I included also library for shematics and footprints for two new-designed items: SIM800L in "reverse"mode (I installed  SIM800L with SIM card reader above for an easy SIM card managing) and Buck converter with two pin arrays on shorter side, to improve socket stability on PCB.
 
