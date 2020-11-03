@@ -1,0 +1,47 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conn_01x09_Male
+D Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP D
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP LED
+D Light emitting diode
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP LED_RCGB
+D RGB LED, red/cathode/green/blue
+K LED RGB diode
+F ~
+$ENDCMP
+#
+$CMP Power_LM2596_3A
+D Buck converter based on LM2596: input from 3V to 40V, max output 3A
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP SIM800L_Module
+D "inverted format" having SIM socket above
+$ENDCMP
+#
+$CMP SW_MEC_5G
+D MEC 5G single pole normally-open tactile switch
+K switch normally-open pushbutton push-button
+F http://www.apem.com/int/index.php?controller=attachment&id_attachment=488
+$ENDCMP
+#
+#End Doc Library
