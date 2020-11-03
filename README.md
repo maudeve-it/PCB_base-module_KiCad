@@ -1,4 +1,6 @@
-![alt text](https://github.com/maudeve-it/PCB_base-module_KiCad/blob/main/Base.png?raw=true)
+![alt text](https://github.com/maudeve-it/PCB_base-module_KiCad/blob/main/Base.png?raw=true| width=100)
+
+
 
 
 # Base Module PCB (KiCad)
