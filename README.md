@@ -1,3 +1,6 @@
+![alt text](https://github.com/maudeve-it/PCB_base-module_KiCad/blob/main/Base.png?raw=true)
+
+
 # Base Module PCB (KiCad)
 
 Here are all the file you need to open/edit the KiCad shematic design and the PCB design sheets.
