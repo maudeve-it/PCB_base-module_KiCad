@@ -19,6 +19,17 @@ File details:
 - all the other files are related to the KiCad project
 
 ---
+> The software, schemes and PCB designs in this set of repositories are provided just for 
+> illustrative purposes, sharing the personal experience on this project. 
+> The software and design artifacts are provided as-is without any mantainence and without
+> warranty of any kind. There is no guarantee of fitness for any particular application, 
+> and no guarantee of completeness and correctness. 
+> By downloading and using these materials the user accepts all risks associated with the
+> construction and use of the circuits and devices described in these design files.
+
+---
+
+---
 
 <br>
 <br>
@@ -35,5 +46,17 @@ Dettagli sui file:
 - i file "000_* " sono la libreria EEschema degli schemi creati e da usare nel progetto
 - C'e' un file ".png" con l'immagine mostrata in questa pagina
 - tutti gli altri file vanno nella cartella di progetto KiCad
+
+---
+> Il software e gli schemi di progetto come i layout PCB in questa serie di repository 
+> sono messe a disposizione con puro intento illustrativo e di condivisione dell'esperienza fatta
+> Il software and gli elementi del progetto sono messi a disposizione "allo stato in cui sono"
+> senza impegno di manutenzione e senza garanzie di alcun tipo. Piu' esplicitamente, non c'e' garanzia di 
+> adeguatezza a soddisfare specifiche esigenze, ne di completezza o correttezza di alcuna parte.
+> Scaricando ed utilizzando questo materiale l'utilizzatore accetta il rischio associato alla
+> realizzazione ed all'utilizzo del circuito e dei componenti descritti in questi file.
+
+---
+
 
 ---
