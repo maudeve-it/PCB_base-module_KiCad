@@ -11,7 +11,7 @@ _**Piu' sotto, al termine della lingua inglese trovi il testo in italiano </i>**
 
 # Base Module PCB (KiCad)
 
-Here are all the file you need to open/edit the KiCad shematic design and KiCad PCB design .
+Here are all the files about the KiCad wiring diagram and PCB design.
 
 I included also library for shematics and footprints for two new-designed items: SIM800L in "reverse"mode (I installed  SIM800L with SIM card reader above for an easy SIM card managing) and Buck converter with two pin arrays on shorter side, to improve socket stability on PCB.
 
@@ -40,7 +40,7 @@ File details:
 
 # PCB Modulo Base (KiCad)
 
-Qui trovi tutti i file che occorrono alla apertura/modifica dello schema Kicad e del layout PCB KiCad.
+Qui trovi tutti i file dello schema elettrico e del layout PCB sviluppati con KiCad.
 
 Ho incluso anche due librerie personalizzate contenenti lo schema e l'impronta PCB di nue nuovi articoli: il SIM800L "sottosopra" (l'ho installato con il lettore di sim card rivolto verso l'alto per una gestione della scheda SIM semplificata) ed il buck converter con due serie di pin sul lato corto per una maggiore stabilità.
 
