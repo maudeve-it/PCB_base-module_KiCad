@@ -3,9 +3,11 @@
 
 <img src="https://github.com/maudeve-it/PCB_base-module_KiCad/blob/main/Base.png" width="633" height="428">
 
+<br><br>
 
 _**Piu' sotto, al termine della lingua inglese trovi il testo in italiano </i>**_
 
+<br><br>
 
 # Base Module PCB (KiCad)
 
